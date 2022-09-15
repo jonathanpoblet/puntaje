@@ -1,0 +1,11 @@
+.puntaje{
+    font-size: 100px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.puntaje-negativo{
+    font-size: 100px;
+    color: rgb(230, 25, 25);
+    margin-bottom: 15px;
+}

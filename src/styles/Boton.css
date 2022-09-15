@@ -1,0 +1,14 @@
+.boton{
+    width: 60px;
+    height: 45px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 50px;
+    border: 2px solid rgb(21, 89, 192);
+    cursor: pointer;
+    background-color: #fff;
+}
+
+.boton:hover{
+    background-color: rgb(65, 125, 214);
+}
