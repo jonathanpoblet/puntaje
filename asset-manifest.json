@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/puntaje/static/css/main.34dbdee2.css",
+    "main.js": "/puntaje/static/js/main.e0cfa3d1.js",
+    "index.html": "/puntaje/index.html",
+    "main.34dbdee2.css.map": "/puntaje/static/css/main.34dbdee2.css.map",
+    "main.e0cfa3d1.js.map": "/puntaje/static/js/main.e0cfa3d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34dbdee2.css",
+    "static/js/main.e0cfa3d1.js"
+  ]
+}
